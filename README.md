@@ -234,12 +234,6 @@ MIT or your preferred license.
 
 ---
 
-## Contributors
-
-* Add your team here!
-
----
-
 ## References
 
 * [Hasura Authentication Docs](https://hasura.io/learn/graphql/hasura/authentication/)
