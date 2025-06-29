@@ -6,6 +6,7 @@ import {
   ResizablePanelGroup,
 } from "@/components/ui/resizable"
 import "./App.css";
+import GoogleAuth from './components/google-auth';
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
         <p>This page will switch between light & dark modes.</p>
       </main>
       <ResizableHandleDemo />
+      <GoogleAuth />
     </div>
   );
 }
